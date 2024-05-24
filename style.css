@@ -1,0 +1,41 @@
+body{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+  margin: 0%;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 80px;
+}
+h3{
+    font-size: 30px;
+}
+.color-orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left:6%;
+}
+.half-width-img{
+    width: 50%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(207, 2, 2));
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 7px 40px ;
+    font-weight: 700;
+    font-size: larger;
+
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
