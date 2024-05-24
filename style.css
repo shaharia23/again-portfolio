@@ -38,4 +38,28 @@ h3{
 .top-banner{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+    padding-bottom: 5%;
+}
+.resume-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(207, 2, 2));
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 7px 60px;
+    font-weight: 700;
+    font-size: larger;
+}
+.dream-big{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.dream-width-img{
+    width: 45%;
+    padding-left: 5%;
+}
+.dream-width{
+    width: 50%;
+    padding-right: 5%;
 }
